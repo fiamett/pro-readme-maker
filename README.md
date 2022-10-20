@@ -17,9 +17,9 @@
 
   [questions](#questions)
   ## installation 
-  n/a 
+  open file in command line run npm i and the run index.js on node
   ## usage 
-  just open via node js and fill out the required questions and it ought fill out everything and make the readme for you! 
+  just open via node js and fill out the required questions and it ought fill out everything and make the majority of the readme for you! 
   just like how this one was made although this was modded
   ## credits 
   template came from: [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
@@ -32,4 +32,4 @@
 
   email?:[email@email.com](email@email.com)
   
-  Demo? :[google drive video](https://drive.google.com/file/d/1H1dyB4IPgeVgwCIUMF9a08NVqEJ5QMNj/view)
+  Demo? :[google drive video](https://drive.google.com/file/d/1QpRPKOx4ZMjN7GWITgv3qcjZECXLIBsn/view)
