@@ -23,7 +23,7 @@
   just like how this one was made although this was modded
   ## credits 
   template came from: [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
-  ## licenses 
+  ## license 
   
   ## features 
   makes a readme and adds a license badge on to it only has MIT,IBM,and Mozilla so far though
@@ -32,4 +32,6 @@
 
   email?:[email@email.com](email@email.com)
   
-  Demo? :[google drive video](https://drive.google.com/file/d/1QpRPKOx4ZMjN7GWITgv3qcjZECXLIBsn/view)
+  Demo? :[youtube video](https://youtu.be/DoFOtYk95UU)
+  
+  Sample readme: sample readme is named test in the github files
